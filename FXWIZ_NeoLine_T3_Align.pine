@@ -7,7 +7,7 @@
 // https://mozilla.org/MPL/2.0/
 //
 // Full source (including modifications and NOTICE) available at:
-// https://github.com/mplus2trust/neoline-t3
+// https://github.com/mplus2trust/neoline-t3-align
 // © 2025 mplus2trust (FXWIZ)
 
 
@@ -194,3 +194,4 @@ alertcondition(buyNeo,          title="NeoLine Trend BUY",  message="NeoLine tre
 alertcondition(sellNeo,         title="NeoLine Trend SELL", message="NeoLine trend flipped DOWN")
 alertcondition(buyAlignEvent,   title="ALIGN BUY",          message="NeoLine crossed ABOVE T3 while in BUY mode")
 alertcondition(sellAlignEvent,  title="ALIGN SELL",         message="NeoLine crossed BELOW T3 while in SELL mode")
+

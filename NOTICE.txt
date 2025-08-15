@@ -1,0 +1,24 @@
+FXWIZ NeoLine–T3 Align
+======================
+
+This project contains portions of logic inspired by, or adapted from,
+publicly available Pine Script® implementations released under the
+Mozilla Public License 2.0 (MPL-2.0).
+
+Where original authors could be identified, credit has been given in
+this NOTICE or in source comments. Some fragments are based on broadly
+discussed community techniques (e.g., RSI-driven adaptive smoothing /
+T3-style cascaded EMA) without a single identifiable author.
+
+Acknowledgements:
+-----------------
+- T3/RSI concept inspiration from various MPL-2.0 open-source references.
+- Integration and reimplementation by FXWIZ.
+
+License:
+--------
+This Source Code Form is subject to the terms of the Mozilla Public License 2.0.
+A copy is available at: https://mozilla.org/MPL/2.0/
+
+Per MPL-2.0 requirements, this repository contains the complete corresponding
+source code, including modifications by FXWIZ.
